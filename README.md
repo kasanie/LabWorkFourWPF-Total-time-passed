@@ -8,5 +8,6 @@
 ![alt text](https://github.com/ssplant/LabWorkFourWPF-Total-time-passed/blob/master/image.png "Пример работы программы")
 
 Моя программа:
+
 ![alt text](https://github.com/ssplant/LabWorkFourWPF-Total-time-passed/blob/master/Capture.PNG "После выбора числа")
 ![alt text](https://github.com/ssplant/LabWorkFourWPF-Total-time-passed/blob/master/Capture1.PNG "После нажатия ОК")
